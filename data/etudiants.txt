@@ -1,0 +1,3 @@
+ID Nom Prenom Age Classe
+1 Dupont Jean 20 Math
+2 Martin Paul 21 Physique
